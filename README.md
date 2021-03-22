@@ -7,5 +7,6 @@ Made to interactively demonstrate my life experiences, as well as general opinio
 		Climate Change Section
 		Electronics Section
 		Social Critique Section
+		Art
 
 Built using Idyll, all code should be available for use.
