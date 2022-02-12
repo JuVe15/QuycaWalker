@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"We Need a Circular Economy"
-  subtitle:"Real sustainability requires radical economic change"
+  subtitle:"Real Sustainability Requires Radical Economic Change"
   author:"Julian Velandia"
   authorLink:"https://www.voizreviews.com/author/julian-velandia-2"
   date:`(new Date()).toDateString()`
