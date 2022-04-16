@@ -1327,14 +1327,14 @@ body {
   font-family: "Noto Serif";
   font-size: var(--fontSize);
   line-height: var(--lineHeight);
-  background-color: black;
+  background-color: #273641;
   color: rgba(255,255,255,0.8);
 }
 p {
   margin-bottom: calc(var(--fontSize) * (120 / 100));
 }
 a {
-  color: #dd871f;
+  color: #9be900;
 }
 .byline > a:link {
   color: inherit;
@@ -1351,12 +1351,12 @@ h3 {
 }
 
 h2 {
-  font-family: "Bungee";
-  font-size: calc(var(--fontSize) * (114 / 100));
+  font-family: "Passion One";
+  font-size: calc(var(--fontSize) * (144 / 100));
 }
 
 h1.hed {
-  font-family: "Bungee Outline";
+  font-family: "Monoton";
   font-size: calc(var(--fontSize) * (240 / 100));
   opacity: 0.9;
 }
@@ -1392,8 +1392,8 @@ h2.dek {
 
 /* Styling header */
 .article-header {
-  background-image: url("images/BR163-light.jpg");
-  background-color: #ffe0c2;
+  background-image: url("images/nv_portada.jpg");
+  background-color:  #aed6f1 ;
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
@@ -1424,7 +1424,7 @@ h2.dek {
   min-height: 50vh;
 }
 .step-text {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(39, 54, 65, 0.85);
   padding: 25px;
 }
 .idyll-scroll-text .idyll-step:first-child {
@@ -1437,20 +1437,6 @@ h2.dek {
 }
 .step-text.hide {
   background: none;
-}
-
-/* small rectangle for loss tree legend */
-.legend {
-  display: inline-block;
-  width: 1.5em;
-  height: 1em;
-}
-
-/* small line for line chart legend */
-.legend-line {
-  display: inline-block;
-  width: 1.5em;
-  height: 0.3em;
 }
 
 figure {
